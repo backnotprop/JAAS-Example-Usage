@@ -1,0 +1,4 @@
+JAASExample {
+	RunLoginModule required debug=false; 
+};
+

@@ -1,0 +1,5 @@
+Mary, 4000, CEO, , $1 
+Mary, 4014, VP, Mary (4000), $1000000
+Bob, 4012, Manager, Mary (4014), $80000
+Alice, 4039, Junior Associate, Bob (4012), $45000
+Tim, 4044, Junior Associate, Bob (4012), $57000
